@@ -6,17 +6,17 @@ I started working out during the pandemic in 2020 and quickly realized that it w
 In 2021, I created AKhanna Coaching to provide free coaching to high schoolers in my community in order to help them work out properly and safely.
 I recently created this website to continue coaching through video tutorials as I transition from high school to college.
 
-## Tutorials
-# Biceps
+# Tutorials
+## Biceps
 
-# Triceps
+## Triceps
 
-# Chest
+## Chest
 
-# Shoulders
+## Shoulders
 
-# Back
+## Back
 
-# Quads
+## Quads
 
-# Hamstrings
+## Hamstrings
