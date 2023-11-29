@@ -7,6 +7,7 @@ In 2021, I created AKhanna Coaching to provide free coaching to high schoolers i
 I recently created this website to continue coaching through video tutorials as I transition from high school to college.
 
 # Tutorials
+*copy and paste the link
 ## Biceps
 Incline Curls:
 https://github.com/akhanna24/akhannacoaching/assets/147932903/75a0e400-ffc4-466c-823c-5a5dff890474
