@@ -11,6 +11,9 @@ I recently created this website to continue coaching through video tutorials as 
 ## Biceps
 Incline Curls:
 https://github.com/akhanna24/akhannacoaching/assets/147932903/75a0e400-ffc4-466c-823c-5a5dff890474
+Barbell Curls:
+https://github.com/akhanna24/akhannacoaching/assets/147932903/c4d14d78-ac45-4ada-9b77-97f6f1454540
+Dumbbell Curls:
 
 ## Triceps
 
