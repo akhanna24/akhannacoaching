@@ -9,7 +9,8 @@ I recently created this website to continue coaching through video tutorials as 
 # Tutorials
 ## Biceps
 Incline Curls:
-https://github.com/akhanna24/akhannacoaching/assets/147932903/c054e8c3-258a-4d49-873d-e205db7fa591 
+https://github.com/akhanna24/akhannacoaching/assets/147932903/75a0e400-ffc4-466c-823c-5a5dff890474
+
 
 
 
