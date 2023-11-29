@@ -19,6 +19,11 @@ https://github.com/akhanna24/akhannacoaching/assets/147932903/75a0e400-ffc4-466c
 ## Triceps
 
 ## Chest
+Dumbbell Press:
+https://github.com/akhanna24/akhannacoaching/assets/147932903/121da4b3-d428-4ae3-ba43-cdde6994f876
+
+
+
 
 ## Shoulders
 
