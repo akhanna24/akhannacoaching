@@ -8,6 +8,8 @@ I recently created this website to continue coaching through video tutorials as 
 
 # Tutorials
 ## Biceps
+Incline Curls:
+
 
 ## Triceps
 
