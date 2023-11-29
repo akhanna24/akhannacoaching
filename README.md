@@ -12,6 +12,7 @@ Incline Curls:
 https://github.com/akhanna24/akhannacoaching/assets/147932903/75a0e400-ffc4-466c-823c-5a5dff890474
 
 
+![IMG_4620](https://github.com/akhanna24/akhannacoaching/assets/147932903/b514a337-6b4f-48b9-a679-67a99da958d7)
 
 
 ## Triceps
