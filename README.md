@@ -24,6 +24,9 @@ https://github.com/akhanna24/akhannacoaching/assets/147932903/3acee748-350b-4117
 Dumbbell Press:
 https://github.com/akhanna24/akhannacoaching/assets/147932903/121da4b3-d428-4ae3-ba43-cdde6994f876
 
+Dumbbell Flys:
+https://github.com/akhanna24/akhannacoaching/assets/147932903/d4beaeb8-811e-4c3d-9713-77588d56887a
+
 ## Shoulders
 Lateral Raises:
 https://github.com/akhanna24/akhannacoaching/assets/147932903/015f26d2-f050-49be-a291-ae7efd7b1ee9
