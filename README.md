@@ -14,6 +14,7 @@ https://github.com/akhanna24/akhannacoaching/assets/147932903/75a0e400-ffc4-466c
 Barbell Curls:
 https://github.com/akhanna24/akhannacoaching/assets/147932903/c4d14d78-ac45-4ada-9b77-97f6f1454540
 Dumbbell Curls:
+https://github.com/akhanna24/akhannacoaching/assets/147932903/3acee748-350b-4117-b264-e5adf6efb82e
 
 ## Triceps
 
